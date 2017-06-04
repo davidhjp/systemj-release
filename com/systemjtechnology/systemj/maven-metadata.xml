@@ -3,10 +3,11 @@
   <groupId>com.systemjtechnology</groupId>
   <artifactId>systemj</artifactId>
   <versioning>
-    <release>v2.1-134</release>
+    <release>v2.1-135</release>
     <versions>
       <version>v2.1-134</version>
+      <version>v2.1-135</version>
     </versions>
-    <lastUpdated>20170530225608</lastUpdated>
+    <lastUpdated>20170604045850</lastUpdated>
   </versioning>
 </metadata>
