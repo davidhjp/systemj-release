@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.systemjtechnology</groupId>
+  <artifactId>systemj</artifactId>
+  <version>v2.1-149-gadecaac-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170616.005136</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170616005136</lastUpdated>
+  </versioning>
+</metadata>
