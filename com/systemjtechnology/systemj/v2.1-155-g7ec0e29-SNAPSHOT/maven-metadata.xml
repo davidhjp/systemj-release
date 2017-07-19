@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.systemjtechnology</groupId>
+  <artifactId>systemj</artifactId>
+  <version>v2.1-155-g7ec0e29-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170719.075033</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170719075033</lastUpdated>
+  </versioning>
+</metadata>
